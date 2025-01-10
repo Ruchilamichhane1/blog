@@ -11,7 +11,7 @@ This project is a mini version of a working blogging website. This project uses 
 ## 💻 Technologies Used ( Backend & Docker Functionality )
 
 - 🛠️ **Django** for the backend
-- 🛢️ **sqlite** for database storage
+- 🛢️ **postgresql** for database storage
 - 🐳 **Docker** for containerization
 
 
